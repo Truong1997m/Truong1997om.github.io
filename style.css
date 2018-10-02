@@ -1,0 +1,179 @@
+
+header{
+    padding: 15px
+}
+header .logo{
+	width: 250px;
+	margin-top: 20px;
+	text-align: center;
+}
+header .logo img{
+	width: 100%;
+	margin-left: 400px;
+}
+.menu{
+	background: #FF9900	
+}
+.banner{
+	margin-top: 0;
+}
+.main{
+    margin-top: 15px;
+    border-top: 2px solid #FF9933; 
+
+}
+.main-top{
+	margin-top: 15px;
+}
+
+.main .main-1 .panel-heading{
+		background: #33CCFF	;
+		color: #000
+}
+.main .main-1 .panel-body {
+     background: #CCFFFF;
+
+}
+.main .main-1 .panel-body a{
+	color: #000;
+}
+.box{
+    border: 1px solid #000
+}
+.box .pp{
+	width: 100%;
+}
+.object{
+	margin-top: 20px;
+}
+.btn-x6{
+	border: 2px solid #00FFFF
+}
+.xbox{
+	text-align: center;
+}
+
+.btn-item{
+	border: 1px solid #FF9933;
+}
+.box-x{
+	text-align: center;
+    margin-top: 15px;
+}
+.footer-y{
+	width: 100px;
+}
+.footer-bg{
+	margin-top: 15px;
+}
+.bcs{
+	background: #6b3235;
+    margin-top: 15px;
+}
+.bcs-x{
+
+	color: #fff;
+	 border-bottom: 2px solid #fff;
+	 padding: 10px;
+}
+
+.bcsxx{
+	width: 200px;
+	line-height: 20px;
+	color: #fff;
+}
+.bcsyy{
+	line-height: 20px;
+}
+.bb{
+	text-align: center;
+	color: #fff;
+	padding: 10px;
+	
+}
+.products{
+	
+}
+.pro-item .thumbnail{
+	position: relative
+}
+.pro-item .pro-img{
+	height: 170px;
+	overflow: hidden
+}
+.pro-item img{
+	width: 100%;
+	transform: scale(1);
+	transition: 1s all
+}
+.pro-item .caption p.price,
+.pro-item .caption h3{
+	color: #fff
+}
+.pro-item .caption{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: rgba(0, 0, 0, .5);
+	width: 93%;
+	box-sizing: border-box;
+	opacity: 0;
+	transition: 1s all
+}
+.pro-item:hover .caption{
+	opacity: 1;
+}
+
+.pro-item:hover img{
+	transform: scale(1.1)
+}
+.media-a{
+}
+.media-a .media-b{}
+.media-a .media-img{
+	height: 200px;
+	overflow: hidden;
+}
+.media-a img{
+    width: 100%;
+    transform: scale(1);
+	transition: 1s all;
+}
+.media-img:hover img{
+	transform: scale(1,1);
+}
+.kv{
+	margin-top: 20px;
+}
+.kv1 img{
+	height: 500px;
+}
+.kv2-1{
+	height: 90%;
+}
+.kv2-2{
+	line-height: 35px;
+    padding: 35px;
+    margin-top: auto;
+}
+.kv-h2{
+	left: 0
+}
+.danger{
+	border-bottom: 2px solid #CC0033;
+	border-top: 2px solid #CC0033;
+	margin-top: 50px;
+}
+#tk{
+	color: #191919;
+}
+#mk{
+	color: #191919;
+}
+#btn{
+	color: #191919;
+}
+.udk{
+	margin-top: 30px;
+	color: #191919;
+}
